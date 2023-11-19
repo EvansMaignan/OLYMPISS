@@ -8,7 +8,7 @@ const createScene = function() {
   const scene = new BABYLON.Scene(engine);
 
   scene.createDefaultCameraOrLight(true, false, true);
-  const box = new BABYLON.MeshBuilder.CreateBox();
+  const box = BABYLON.MeshBuilder.CreateBox("box", { size: 1.0 });
 
   return scene;
 }
