@@ -1,6 +1,11 @@
 import path from 'path';
 
 export default {
+  server: {
+    fsServe: {
+      strict: true,
+    },
+  },
   build: {
     outDir: 'dist',
     assetsDir: './',
