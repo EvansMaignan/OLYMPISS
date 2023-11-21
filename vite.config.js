@@ -10,7 +10,7 @@ export default {
     outDir: 'dist',
     assetsDir: './',
     lib: {
-      entry: path.resolve(__dirname, 'index.ts'),
+      entry: path.resolve(__dirname, 'main.ts'),
       name: 'MyLib',
       formats: ['es', 'umd'],
     },
