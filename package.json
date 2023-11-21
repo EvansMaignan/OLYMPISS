@@ -10,9 +10,6 @@
   },
   "devDependencies": {
     "@babylonjs/core": "^6.30.0",
-    "@types/babylonjs": "^2.4.1",
-    "ts-loader": "^9.5.1",
-    "typescript": "^5.3.2",
-    "vite": "^5.0.2"
+    "vite": "^5.0.0"
   }
 }
