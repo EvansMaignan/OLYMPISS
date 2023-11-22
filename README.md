@@ -42,8 +42,5 @@ Le jeu est divisé en deux parties distinctes qui se succèdent :
 - Cette partie du jeu n'a pas de fin définie.
 - L'objectif est de survivre le plus longtemps possible en évitant les obstacles.
 
-## Remerciements
-Nous tenons à remercier tous les contributeurs qui ont participé au développement de ce projet. Votre passion et votre créativité ont contribué à faire d'OLYMPISS un jeu unique et amusant.
-
 ---
 N'hésitez pas à explorer le code, à proposer des améliorations ou à signaler des problèmes. Amusez-vous bien avec OLYMPISS ! 🏊‍♂️🎮
