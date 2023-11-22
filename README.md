@@ -1,4 +1,4 @@
-# OLYMPISS - Jeu Parodique pour "Games On Web 2024"
+# OLYMPISS - Jeu pour les "Games On Web 2024"
 Bienvenue dans le README du projet OLYMPISS, développé en BabylonJS pour le concours "Games On Web 2024".
 
 ## Principe du Jeu
